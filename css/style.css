@@ -1,0 +1,28 @@
+.mark{
+  background-color: yellow;
+  border: 1px solid black;
+}
+.aside{
+  background-color: rgba(0, 0, 0, .5);
+  color:white;
+  margin-top: 3.5rem;
+}
+.satir1{
+  margin-top:5rem;
+}
+body{
+
+  background-color: rgb(209, 231, 227);
+}
+.navSatiri{
+  position: fixed;
+  z-index: 1 ;
+  background-color:rgba(209, 231, 227,.9);
+  top: 0;
+  padding-top: 1rem;
+}
+
+.pItem{
+  margin-top:2rem;
+  margin-bottom: 2rem;
+}
