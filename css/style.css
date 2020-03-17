@@ -26,3 +26,13 @@ body{
   margin-top:2rem;
   margin-bottom: 2rem;
 }
+.hero-image {
+  background-image: url("/w3images/photographer.jpg");
+  background-color: #cccccc;
+  max-width:600px;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
